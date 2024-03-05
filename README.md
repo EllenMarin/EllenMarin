@@ -29,7 +29,7 @@ I've always been passionate about technology and how it can be used to create am
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 
-<img src="https://github.com/EllenMarin/EllenMarin/blob/main/img-top.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://github.com/EllenMarin/EllenMarin/blob/main/code.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="Code">
 
 #### Secondary Stack:
 
@@ -51,6 +51,7 @@ I've always been passionate about technology and how it can be used to create am
 <div> 
 <a href = "mailto:marin_ellen@hotmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/ellen-marin-667912133/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+<a href="https://besrc.pt/portfolio/" target="_blank"><img src="https://img.shields.io/badge/Besrc-000000?style=for-the-badge"  target="_blank"></a> 
  
 </div>&nbsp;&nbsp;
  
