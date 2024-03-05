@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="center" style="margin-bottom:100px" width=100% src="" />
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/EllenMarin/EllenMarin/blob/main/img-top.jpg" />
 &nbsp;&nbsp;&nbsp;
 
 <h1 align="center">I'M A FULL STACK DEVELOPER</h1>
@@ -29,7 +29,7 @@ I've always been passionate about technology and how it can be used to create am
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 
-<img src="" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://github.com/EllenMarin/EllenMarin/blob/main/img-top.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Secondary Stack:
 
