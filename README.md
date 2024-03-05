@@ -23,19 +23,24 @@ I've always been passionate about technology and how it can be used to create am
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
+![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)&nbsp;
 
 
 #### Secondary Stack:
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
-)&nbsp;
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)&nbsp;
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![NodeJs](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
 
 
-#### Workstation Tools:
+#### Tools:
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
+![Gimp](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white
+)&nbsp;
+![Xampp](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white
+)&nbsp;
 
 &nbsp;
 &nbsp;
@@ -48,7 +53,14 @@ I've always been passionate about technology and how it can be used to create am
 <a href="https://besrc.pt/portfolio/" target="_blank"><img src="https://img.shields.io/badge/Besrc-000000?style=for-the-badge&logo=About.me&logoColor=white"  target="_blank"></a> 
  
 </div>&nbsp;&nbsp;
- 
+
+## Portfólio:
+ <ul> 
+  <li><a href = "https://github.com/EllenMarin/LandingPage-EllenMarin" target="_blank">How is Ellen Marin?</a></li>
+  <li><a href = "https://github.com/EllenMarin/SistemaAgenda" target="_blank">Online Scheduling System</a></li>
+  <li><a href = "https://github.com/EllenMarin/StayAlive" target="_blank">Stay Alive and Win Game</a></li>
+  <li><a href = "https://besrc.pt/portfolio/" target="_blank">Websites </a></li>
+ </ul>
 
   
   
