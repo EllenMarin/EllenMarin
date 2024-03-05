@@ -30,7 +30,7 @@ I've always been passionate about technology and how it can be used to create am
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 
-<img src="https://github.com/EllenMarin/EllenMarin/blob/main/code.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="Code">
+<img src="https://github.com/EllenMarin/EllenMarin/blob/main/code.jpg" min-width="400px" max-width="500px" width="500px" align="right" alt="Code">
 
 #### Secondary Stack:
 
