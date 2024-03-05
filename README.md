@@ -7,15 +7,6 @@
 <p align="center">Ever since I can remember|
 I've always been passionate about technology and how it can be used to create amazing things. When I discovered programming, I realized that I had found my true passion. I want to use my knowledge to contribute to a better world and create solutions to everyday problems, making everything more practical and simple.</p>&nbsp;
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=kyronsatt&show_icons=true&theme=radical&layout=compact" />
- </div>
- 
- &nbsp;
- &nbsp;
-
-
 
 ## My Skills
 
