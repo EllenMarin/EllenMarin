@@ -15,7 +15,9 @@ I've always been passionate about technology and how it can be used to create am
 <img src="https://github.com/EllenMarin/EllenMarin/blob/main/code.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="Code">
 
 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![TypScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
@@ -29,8 +31,6 @@ I've always been passionate about technology and how it can be used to create am
 #### Secondary Stack:
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)&nbsp;
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![NodeJs](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
 
 
@@ -56,7 +56,9 @@ I've always been passionate about technology and how it can be used to create am
 
 ## Portfólio:
  <ul> 
-  <li><a href = "https://github.com/EllenMarin/LandingPage-EllenMarin" target="_blank">How is Ellen Marin?</a></li>
+  <li><a href = "https://github.com/EllenMarin/tasksManage" target="_blank">Tasks Manage</a></li>
+  <li><a href = "https://github.com/EllenMarin/barber-shop" target="_blank">Barbershop App</a></li>
+  <li><a href = "https://github.com/EllenMarin/FOOD" target="_blank">Cheffest food App</a></li>
   <li><a href = "https://github.com/EllenMarin/SistemaAgenda" target="_blank">Online Scheduling System</a></li>
   <li><a href = "https://github.com/EllenMarin/StayAlive" target="_blank">Stay Alive and Win Game</a></li>
   <li><a href = "https://besrc.pt/portfolio/" target="_blank">Websites </a></li>
