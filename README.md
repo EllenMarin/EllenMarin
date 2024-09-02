@@ -60,9 +60,9 @@ I've always been passionate about technology and how it can be used to create am
 
 ## Portfólio:
  <ul> 
-  <li><a href = "https://github.com/EllenMarin/tasksManage" target="_blank">Tasks Manage</a></li>
-  <li><a href = "https://github.com/EllenMarin/barber-shop" target="_blank">Barbershop App</a></li>
-  <li><a href = "https://github.com/EllenMarin/FOOD" target="_blank">Cheffest food App</a></li>
+  <li><a href = "https://tasks-manage.vercel.app/" target="_blank">Tasks Manage</a></li>
+  <li><a href = "barbershop-besrc.vercel.app" target="_blank">Barbershop App</a></li>
+  <li><a href = "cheffest-food.vercel.app" target="_blank">Cheffest food App</a></li>
   <li><a href = "https://github.com/EllenMarin/SistemaAgenda" target="_blank">Online Scheduling System</a></li>
   <li><a href = "https://github.com/EllenMarin/StayAlive" target="_blank">Stay Alive and Win Game</a></li>
   <li><a href = "https://besrc.pt/portfolio/" target="_blank">Websites </a></li>
